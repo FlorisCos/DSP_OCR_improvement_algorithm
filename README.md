@@ -35,4 +35,4 @@ For each file you process, the algorithm outputs a corrected file with the old f
 
 ### Pipeline:
 
-![Pipeline](/Users/floriscos/Documents/Universiteit/pipeline.png)
+![Pipeline](pipeline.png)
